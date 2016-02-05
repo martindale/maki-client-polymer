@@ -1,0 +1,31 @@
+{
+  "name": "maki-client-polymer",
+  "version": "0.1.0",
+  "description": "Full client-side implementation of Maki using Polymer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/maki-client-polymer.git"
+  },
+  "keywords": [
+    "maki",
+    "client",
+    "browser",
+    "framework",
+    "full-stack",
+    "plugin",
+    "startups",
+    "mvp",
+    "rapid",
+    "prototyping"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/maki-client-polymer/issues"
+  },
+  "homepage": "https://github.com/martindale/maki-client-polymer"
+}
